@@ -28,6 +28,7 @@ const SignUp = () => {
             // create user
             const result = await createUser(email, password)
             console.log(result);
+            navigate('/')
             toast.success('Create User Successful')
         } catch (err) {
             console.log(err);
