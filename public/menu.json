@@ -1,0 +1,30 @@
+[
+    {
+      "_id": "64f0c8a7a1f7d9bce1a12345",
+      "name": "Espresso",
+      "image": "https://i.ibb.co/qnz0NQK/espresso.jpg",
+      "category": "coffee",
+      "price": 3.50
+    },
+    {
+      "_id": "64f0c8a7a1f7d9bce1a12346",
+      "name": "Latte",
+      "image": "https://i.ibb.co/542xPVb/lattee.jpg",
+      "category": "coffee",
+      "price": 4.00
+    },
+    {
+      "_id": "64f0c8a7a1f7d9bce1a12347",
+      "name": "Cappuccino",
+      "image": "https://i.ibb.co/xzBB2bz/capuccino.jpg",
+      "category": "coffee",
+      "price": 4.50
+    },
+    {
+      "_id": "64f0c8a7a1f7d9bce1a12348",
+      "name": "Americano",
+      "image": "https://i.ibb.co/hYTvCxM/americano.jpg",
+      "category": "coffee",
+      "price": 3.00
+    }
+  ]
